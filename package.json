@@ -1,6 +1,6 @@
 {
-  "name": "andresjosehr-portfolio",
-  "version": "0.0.0",
+  "name": "victorovento-website",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
